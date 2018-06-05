@@ -1,0 +1,12 @@
+C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=AnandASPCoreTest
+--content-root=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\Home\About.cshtml
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\Home\Contact.cshtml
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\Home\Index.cshtml
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\Shared\Error.cshtml
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\Shared\_Layout.cshtml
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\_ViewImports.cshtml
+--file=C:\Users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\Views\_ViewStart.cshtml

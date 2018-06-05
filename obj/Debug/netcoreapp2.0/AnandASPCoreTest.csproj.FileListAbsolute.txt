@@ -1,0 +1,11 @@
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\bin\Debug\netcoreapp2.0\AnandASPCoreTest.deps.json
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\bin\Debug\netcoreapp2.0\AnandASPCoreTest.runtimeconfig.json
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\bin\Debug\netcoreapp2.0\AnandASPCoreTest.runtimeconfig.dev.json
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\bin\Debug\netcoreapp2.0\AnandASPCoreTest.dll
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\bin\Debug\netcoreapp2.0\AnandASPCoreTest.pdb
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\obj\Debug\netcoreapp2.0\AnandASPCoreTest.csprojResolveAssemblyReference.cache
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\obj\Debug\netcoreapp2.0\AnandASPCoreTest.csproj.CoreCompileInputs.cache
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\obj\Debug\netcoreapp2.0\AnandASPCoreTest.AssemblyInfoInputs.cache
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\obj\Debug\netcoreapp2.0\AnandASPCoreTest.AssemblyInfo.cs
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\obj\Debug\netcoreapp2.0\AnandASPCoreTest.dll
+c:\users\anfranci\documents\visual studio 2017\Projects\AnandASPCoreTest\AnandASPCoreTest\obj\Debug\netcoreapp2.0\AnandASPCoreTest.pdb
